@@ -29,7 +29,7 @@ My research interest includes:
 
 
 # 🎓 Educations 
-- ***M.S.(Thesis) in Electrical and Computer Engineering***<div align="right">*Aug. 2021- Present*</div>
+- ***M.S.(Thesis) in Electrical and Computer Engineering*** <div style="text-align: right">*Aug. 2021- Present*</div>
 <a href="https://www.ece.ufl.edu/"><img class="svg" src="/images/UFL_logo.png" width="66pt"></a> Department of Electrical & Computer Engineering, University of Florida, Gainesville, FL, US. 
 - *Sept. 2017- Jun. 2021*, <a href="https://mechanical.zstu.edu.cn/"><img class="svg" src="/images/ZSTU_logo.png" width="33pt"></a> School of Mechanical Engineering and Automation (SMEA), Zhejiang Sci-Tech University, Hangzhou, CN. 
  
