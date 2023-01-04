@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiayi Wu"
-description              : "This is the academic homepage of M.S. Wu."
+description              : "This is the academic homepage of Jiayi Wu"
 repository               : "JiayiWuLeo
 /
 JiayiWuLeo.github.io"
@@ -27,10 +27,10 @@ author:
   avatar           : "images/personal photo.png"
   bio              : "University of Florida"
   location         : "Gainesville, US"
-  employer         : #"Hefei General Machinery Research Institute"
+  employer         : #"RoboPI"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=xoZE1GsAAAAJ&hl=en"
+  email            : "wuj2@ufl.edu"
   researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
