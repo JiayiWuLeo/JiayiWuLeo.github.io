@@ -29,18 +29,18 @@ My research interest includes:
 
 
 # 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
+- *Aug. 2021- Present*, <a href="https://www.ece.ufl.edu/"><img class="svg" src="/images/UFL_logo.png" width="23pt"></a> Department of Electrical & Computer Engineering, University of Florida, Gainesville, FL, US. 
+- *Sept. 2017- Jun. 2021*, <a href="https://mechanical.zstu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Mechanical Engineering and Automation (SMEA), Zhejiang Sci-Tech University, Hangzhou, CN. 
  
 
 # 📝 Publications 
 
 ### English 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/udepth.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023 (under review)</div><img src='images/udepth.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Yu, Boxiao, `Wu, Jiayi`, Islam, Md Jahidul. UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots. *ICRA*. 2023, 10.48550/ARXIV.2209.12358
+-	Yu, Boxiao, `Wu, Jiayi`, Islam, Md Jahidul. UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots. *ICRA*. 2023, 10.48550/ARXIV.2209.12358  
 [[arXiv]](https://arxiv.org/abs/2209.12358) [[Code]](https://github.com/uf-robopi/UDepth) [[pre-print]](/pdf/2209.12358.pdf)
 
 </div>
