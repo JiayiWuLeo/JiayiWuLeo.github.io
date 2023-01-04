@@ -27,9 +27,9 @@ author:
   location         : "Gainesville, US"
   employer         : #"RoboPI"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=xoZE1GsAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=xoZE1GsAAAAJ&hl"
   email            : "wuj2@ufl.edu"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  researchgate     :
   uri              : 
   bitbucket        :
   codepen          :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/jiayi-wu-leo"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : 
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/Jiayi_Wu_Leo"
   vine             :
   weibo            :
   xing             :
