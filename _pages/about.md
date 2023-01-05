@@ -82,7 +82,7 @@ This project is my master's thesis, the overall framework has been determined, a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">R&D Internship Project</div><img src='images/FU-SfM_project.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">R&D Internship Project</div><img src='images/infringing_video_retrieval_project.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### Learning-based Infringing Video Retrieval
