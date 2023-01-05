@@ -27,6 +27,15 @@ My research interest includes:
 - AI-based Surgical Navigation: Make AI have the ability to generate structured diagnostic reports through medical images, and combine NLP algorithms and computer vision technology to achieve surgical navigation
 - Surgical robot: Enable surgical robots to have accurate multi-modal fusion perception ability and precise motion control and can perform precise surgery according to the instructions analyzed by doctors or AI
 
+# 📰 News
+
+- 2022/09/15: The paper “UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots” I collaborated with Boxiao Yu and Prof. Islam was submitted to ICRA 2023.
+
+- 2022/08/23: Completed the summer internship at Vobile and got a return offer (recommended by Dr. Zhao).
+
+- 2022/05/23: Joined the team of Dr. Zhao (CTO of Vobile) of Vobile as an audio and video algorithm development engineer (summer internship).
+
+- 2022/01/10: Join Professor Judge's Remote Sensing Lab (as Graduate Student Assistant) and be responsible for the development of a large-scale automated generation of 3D plant models.
 
 # 🎓 Educations 
 ><a href="https://www.ece.ufl.edu/"><img class="svg" src="/images/UFL_logo.png" width="45pt"></a>  ***University of Florida***
