@@ -29,7 +29,9 @@ My research interest includes:
 
 # 📰 News
 
-- 2022/09/15: The paper “UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots” I collaborated with Boxiao Yu and Prof. Islam was submitted to ICRA 2023.
+- 2023/01/16: ***Our paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://arxiv.org/abs/2209.12358) has been accepted by ICRA 2023 !!!***
+
+- 2022/09/15: The paper [“UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots”](https://arxiv.org/abs/2209.12358) I collaborated with Boxiao Yu and Prof. Islam was submitted to ICRA 2023.
 
 - 2022/08/23: Completed the summer internship at Vobile and got a return offer (recommended by Dr. Zhao).
 
@@ -48,9 +50,9 @@ Supervised by Prof. Islam.
 
 # 📝 Publications 
 
-### Preprints 
+### Conference Papers
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023 (under review)</div><img src='images/udepth.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023 (has been accepted)</div><img src='images/udepth.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Yu, Boxiao, `Wu, Jiayi`, Islam, Md Jahidul. UDepth: Fast Monocular Depth Estimation for Visually-guided Underwater Robots. *ICRA*. 2023, 10.48550/ARXIV.2209.12358  
@@ -91,15 +93,12 @@ This project is my master's thesis, the overall framework has been determined, a
 </div>
 </div>
 
-### Chinese
+### Journal Articles
 ---
 
--	`Jian Tang`, Rongbiao Wang, Yihua Kang. Magnetic flux leakage nondestructive testing with large lift-off. *Nondestructive Testing*. 2022,44(4): 67.  
-唐健, 王荣彪, 康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67.  
-[[HTML]](https://dx.doi.org/10.11973/wsjc202204000) [[Preview]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[PDF]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
 
 
-# 🏅 Honors and Awards
+{%# 🏅 Honors and Awards
 - *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
 - *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
 - *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
@@ -114,5 +113,5 @@ This project is my master's thesis, the overall framework has been determined, a
 # 🏭 Internships
 - *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
 - *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
-- *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.
+- *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.%}
   
