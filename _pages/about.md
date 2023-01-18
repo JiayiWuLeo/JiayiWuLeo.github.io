@@ -45,7 +45,8 @@ My research interest includes:
 Supervised by Prof. Islam.
 
 ><a href="https://mechanical.zstu.edu.cn/"><img class="svg" src="/images/ZSTU_logo.png" width="45pt"></a>   ***Zhejiang Sci-Tech University (ZSTU)***
->>- ***B.E. in Mechatronic Engineering*** --------- *Sept. 2017- Jun. 2021*
+>>- ***B.E. in Mechatronic Engineering*** --------- *Sept. 2017- Jun. 2021*  
+2021 Outstanding Graduate, Zhejiang Sci-Tech University
  
 
 # 📝 Publications 
@@ -96,22 +97,32 @@ This project is my master's thesis, the overall framework has been determined, a
 ### Journal Articles
 ---
 
+# 🏭 Job Experience
 
+- ***Digital Audio and Video Algorithm Engineer*** --------- *May. 2022- Aug. 2022*  
+Vobile, Santa Clara, CA, United States.
 
-{%# 🏅 Honors and Awards
-- *2015.11*  Win the `1st Prize` in the 14th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition.
-- *2015.06* Win the `1st Prize` in the 13rd  "Challenge Cup" Sichuan Undergraduate Curricular Academic Science and Technology Works Competition. [[Newsreport]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)
-- *2014.12* Win the `1st Prize` in the 4th National Undergraduate Engineering Training Integration Ability Competition (Sichuan Division).
+- ***Graduate Student Assistant*** --------- *Jan. 2022- present*  
+Remote Sensing Laboratory at University of Florida, Gainesville, FL, United States.
 
-# 💬 Conferences
+# 🏅 Honors and Awards
 
-- *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral.
-- *2019.09*, The 19th International Symposium on Applied Electromagnetics and Mechanics (ISEM 2019), Nanjing China, Poster.
-- *2017.10*, The 6th China International Pipeline Conference (CIPC 2017), Langfang China, Visit.
+### SCHOLARSHIPS
+---
+- *2020.12* Zhejiang Government Scholarship
+- *2019.09* First Class School Financial Aid for Overseas Exchange Program
+- *2018.12* Zhejiang Government Scholarship
 
+### COMPETITIONS
+---
+- *2021.06* Individual `1st Prize` in the National University Graduate Design Competition (Only two people won this award nationwide) 06/2021
+- *2019.10* Provincial `1st Prize` of National 3D Digital Innovative Design Competition
+- *2019.09* `2nd Prize` of National 3dds Competition Classic
+- *2019.06* `3rd Prize` of The 16th Zhejiang Province Mechanical Design Competition for College Student
+- *2019.04* `3rd Prize` of The Challenge Cup Extracurricular Academic Works Competition
 
-# 🏭 Internships
-- *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
-- *2020.11.25 - 2020.12.02*, Hubei Xinyegang Steel Ltd., Huangshi China.
-- *2017.6 - 2021.1*, Wuhan Huayu-M Testing Equipment Co., Ltd., Wuhan China.%}
+# 💬 Academic Services
+### Reviewer
+---
+- 2023 IEEE International Conference on Robotics and Automation (ICRA)
   
