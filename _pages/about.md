@@ -94,8 +94,6 @@ This project is my master's thesis, the overall framework has been determined, a
 </div>
 </div>
 
-### Journal Articles
----
 
 # 🏭 Job Experience
 
