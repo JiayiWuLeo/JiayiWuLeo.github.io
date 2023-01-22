@@ -27,7 +27,7 @@ redirect_from:
 - AI-based Surgical Navigation: Make AI have the ability to generate structured diagnostic reports through medical images, and combine NLP algorithms and computer vision technology to achieve surgical navigation
 - Surgical robot: Enable surgical robots to have accurate multi-modal fusion perception ability and precise motion control and can perform precise surgery according to the instructions analyzed by doctors or AI
 
-[***My latest CV***](/pdf/PhD Application-CV(latest version)-Jiayi Wu.pdf)
+[***Latest CV's link***](/pdf/PhD Application-CV(latest version)-Jiayi Wu.pdf)
 
 # 📰 News
 
@@ -80,9 +80,9 @@ This is a collaborative project on underwater depth estimation with Boxiao Yu, a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Master's Thesis</div><img src='images/FU-SfM_project.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-### FU-SfM
-- A fast underwater 3D reconstruction pipeline without a deep learning model. Underwater image restoration is implemented through RMI channel and underwater imaging model to improve the number of feature matches. Reduce the computational complexity of feature extraction by using the depth map as a mask. The depth map is used as the supervision to refine the 3D point cloud and remove noise. To achieves higher quality underwater 3D reconstruction.  
-This project is my master's thesis, the overall framework has been determined, and some subsystems have obtained good results. It is expected that the project will be completed and submitted to IROS in Spring 2023.  
+### FSDU-SfM
+- A fast depth-guided semi-dense underwater 3D reconstruction pipeline without a deep learning model. Underwater image restoration is implemented through RMI channel and underwater imaging model to improve the number of feature matches. Reduce the computational complexity of feature extraction by using the depth map as a mask. In order to achieve higher quality(semi-dense) underwater 3D reconstruction, the depth maps are used as the supervision to refine the 3D point cloud and remove noise.  
+This project is my master's thesis, the overall framework has been determined, and most of the subsystems have obtained good results. It is expected that the project will be completed and submitted to IROS in Spring 2023.  
 
 </div>
 </div>
